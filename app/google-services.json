@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1051375774848",
+    "firebase_url": "https://narkobaquestion.firebaseio.com",
+    "project_id": "narkobaquestion",
+    "storage_bucket": "narkobaquestion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051375774848:android:5b1c0836a2401c5eea8a65",
+        "android_client_info": {
+          "package_name": "com.example.fajar.utsmp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051375774848-alr45t1miacp9o0it1pp1e49g3ch8v15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNJqC1_hZvnYyaqMbpg4q1YQ3oPQneVac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051375774848-alr45t1miacp9o0it1pp1e49g3ch8v15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
